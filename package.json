@@ -1,0 +1,14 @@
+{
+  "name": "onfleet",
+  "version": "1.0.0",
+  "description": "onfleet api interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jed Thompson",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
+}
